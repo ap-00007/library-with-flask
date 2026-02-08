@@ -1,9 +1,3 @@
-Here’s a clean, practical **README.md** you can drop straight into your project.
-No fluff. Just what someone needs to run and understand it.
-
----
-
-```md
 # 📚 Flask Library App
 
 A simple Flask web application to manage a personal book library using **Flask + SQLAlchemy + SQLite**.
